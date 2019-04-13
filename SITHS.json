@@ -1,0 +1,15 @@
+[
+    {
+        "Technology" : [
+            {
+            "course" : [
+                {
+                "couresName" : "Computer Aided Design",
+                "teacher" : "Joseph Buro, Michael Whalen, Everton Henriques, Alison Barone",
+                "studentYear" : "Sophomore"
+            ]
+        }
+        }
+        ]
+    }
+]
